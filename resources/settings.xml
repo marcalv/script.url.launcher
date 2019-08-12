@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32310">
+      <setting type="lsep" label="URL to be opened" />
+        <setting label="32011" type="text" id="url" default="https://"/>
+    </category>
+</settings>
