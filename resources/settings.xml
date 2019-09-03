@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-    <category label="32310">
+    <category label="32011">
       <setting type="lsep" label="URL to be opened" />
         <setting label="32011" type="text" id="url" default="https://"/>
+        <setting type="lsep" label="Android Browser to be used" />
+        <setting label="32011" type="text" id="app" default="com.android.browser"/>
     </category>
 </settings>
